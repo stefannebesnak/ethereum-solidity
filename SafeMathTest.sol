@@ -4,7 +4,7 @@ pragma solidity ^0.6.0;
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/math/SafeMath.sol";
 
 
-contract  {
+contract Math  {
  // Include the SafeMath library inside this contract
  using SafeMath for uint;
 
