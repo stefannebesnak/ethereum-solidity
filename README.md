@@ -1,1 +1,1 @@
-# smart contract playground
+# Solidity playground
