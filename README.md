@@ -1,2 +1,1 @@
-# ethereum-solidity
- smart contract playground
+# Solidity playground
